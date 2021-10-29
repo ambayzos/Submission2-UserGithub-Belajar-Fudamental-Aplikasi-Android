@@ -35,7 +35,7 @@ public interface ApiService {
     );
 
     @GET("users/{username}/following")
-    @Headers("Authorization: token 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")
+    @Headers("Authorization: token isi dengan token github")
     Call<List<FollowingEntity>> getFollowing(
             @Path("username") String username
     );
