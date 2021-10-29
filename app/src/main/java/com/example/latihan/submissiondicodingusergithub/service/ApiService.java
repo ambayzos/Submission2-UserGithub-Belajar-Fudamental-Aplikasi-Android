@@ -16,19 +16,19 @@ import retrofit2.http.Query;
 public interface ApiService {
 
     @GET("search/users")
-    @Headers("Authorization: token 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")
+    @Headers("Authorization: token isi dengan token github")
     Call<UserResponse> getSearchUser(
             @Query("q") String username
     );
 
     @GET("users/{username}")
-    @Headers("Authorization: token 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")
+    @Headers("Authorization: token isi dengan token github")
     Call<DetailUserEntity> getDetailUser(
             @Path("username") String username
     );
 
     @GET("users/{username}/followers")
-    @Headers("Authorization: token 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")
+    @Headers("Authorization: token isi denga token github")
     //menggunakan list karena kita akan menampilkan data banyak
     Call<List<FollowersEntity>> getFollowers(
             @Path("username") String username
