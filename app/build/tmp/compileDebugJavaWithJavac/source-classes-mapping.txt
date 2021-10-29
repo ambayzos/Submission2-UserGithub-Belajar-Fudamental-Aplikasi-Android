@@ -1,0 +1,41 @@
+com/example/latihan/submissiondicodingusergithub/DetailUser.java
+ com.example.latihan.submissiondicodingusergithub.DetailUser
+ com.example.latihan.submissiondicodingusergithub.DetailUser$1
+com/example/latihan/submissiondicodingusergithub/entity/UserResponse.java
+ com.example.latihan.submissiondicodingusergithub.entity.UserResponse
+com/example/latihan/submissiondicodingusergithub/Adapter/FollowersAdapter.java
+ com.example.latihan.submissiondicodingusergithub.Adapter.FollowersAdapter
+ com.example.latihan.submissiondicodingusergithub.Adapter.FollowersAdapter$FollowersViewHolder
+com/example/latihan/submissiondicodingusergithub/service/ApiService.java
+ com.example.latihan.submissiondicodingusergithub.service.ApiService
+com/example/latihan/submissiondicodingusergithub/service/ApiConfig.java
+ com.example.latihan.submissiondicodingusergithub.service.ApiConfig
+com/example/latihan/submissiondicodingusergithub/BuildConfig.java
+ com.example.latihan.submissiondicodingusergithub.BuildConfig
+com/example/latihan/submissiondicodingusergithub/Adapter/FollowingAdapter.java
+ com.example.latihan.submissiondicodingusergithub.Adapter.FollowingAdapter
+ com.example.latihan.submissiondicodingusergithub.Adapter.FollowingAdapter$ViewFollowingHolder
+com/example/latihan/submissiondicodingusergithub/MainActivity.java
+ com.example.latihan.submissiondicodingusergithub.MainActivity
+ com.example.latihan.submissiondicodingusergithub.MainActivity$1
+ com.example.latihan.submissiondicodingusergithub.MainActivity$2
+com/example/latihan/submissiondicodingusergithub/Adapter/PageAdapter.java
+ com.example.latihan.submissiondicodingusergithub.Adapter.PageAdapter
+com/example/latihan/submissiondicodingusergithub/fragment/FollowersFragment.java
+ com.example.latihan.submissiondicodingusergithub.fragment.FollowersFragment
+ com.example.latihan.submissiondicodingusergithub.fragment.FollowersFragment$1
+com/example/latihan/submissiondicodingusergithub/entity/UserEntity.java
+ com.example.latihan.submissiondicodingusergithub.entity.UserEntity
+com/example/latihan/submissiondicodingusergithub/entity/FollowersEntity.java
+ com.example.latihan.submissiondicodingusergithub.entity.FollowersEntity
+com/example/latihan/submissiondicodingusergithub/Adapter/UserAdapter.java
+ com.example.latihan.submissiondicodingusergithub.Adapter.UserAdapter
+ com.example.latihan.submissiondicodingusergithub.Adapter.UserAdapter$1
+ com.example.latihan.submissiondicodingusergithub.Adapter.UserAdapter$ViewHolder
+com/example/latihan/submissiondicodingusergithub/fragment/FollowingFragment.java
+ com.example.latihan.submissiondicodingusergithub.fragment.FollowingFragment
+ com.example.latihan.submissiondicodingusergithub.fragment.FollowingFragment$1
+com/example/latihan/submissiondicodingusergithub/entity/FollowingEntity.java
+ com.example.latihan.submissiondicodingusergithub.entity.FollowingEntity
+com/example/latihan/submissiondicodingusergithub/entity/DetailUserEntity.java
+ com.example.latihan.submissiondicodingusergithub.entity.DetailUserEntity
